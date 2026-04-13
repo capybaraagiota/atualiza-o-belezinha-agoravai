@@ -1,0 +1,103 @@
+numero = int(input("fala um numero: "))
+
+if numero == 1:
+    print("o numero é impar")
+elif numero == 2:
+    print("o numero é par")
+elif numero == 3:
+    print("o numero é impar")
+elif numero == 4:
+    print("o numero é par") 
+elif numero == 5:
+    print("o numero é impar")   
+elif numero == 6:   
+    print("o numero é par")
+elif numero == 7:
+    print("o numero é impar")
+elif numero == 8:
+    print("o numero é par")
+elif numero == 9:
+    print("o numero é impar")
+elif numero == 10:
+    print("o numero é par")
+elif numero == 11:
+    print("o numero é impar")
+elif numero == 12:
+    print("o numero é par")
+elif numero == 13:
+    print("o numero é impar")
+elif numero == 14:
+    print("o numero é par")
+elif numero == 15:
+    print("o numero é impar")
+elif numero == 16:
+    print("o numero é par")
+elif numero == 17:
+    print("o numero é impar")
+elif numero == 18:
+    print("o numero é par")
+elif numero == 19:
+    print("o numero é impar")
+elif numero == 20:
+    print("o numero é par")
+elif numero == 21:
+    print("o numero é impar")
+elif numero == 22:
+    print("o numero é par")
+elif numero == 23:
+    print("o numero é impar")
+elif numero == 24:
+    print("o numero é par")
+elif numero == 25:
+    print("o numero é impar")
+elif numero == 26:
+    print("o numero é par")
+elif numero == 27:
+    print("o numero é impar")
+elif numero == 28:
+    print("o numero é par")
+elif numero == 29:
+    print("o numero é impar")
+elif numero == 30:
+    print("o numero é par")
+elif numero == 31:
+    print("o numero é impar")
+elif numero == 32:
+    print("o numero é par")
+elif numero == 33:
+    print("o numero é impar")
+elif numero == 34:
+    print("o numero é par")
+elif numero == 35:
+    print("o numero é impar")
+elif numero == 36:
+    print("o numero é par")
+elif numero == 37:
+    print("o numero é impar")
+elif numero == 38:
+    print("o numero é par")
+elif numero == 39:
+    print("o numero é impar")
+elif numero == 40:
+    print("o numero é par")
+elif numero == 41:
+    print("o numero é impar")
+elif numero == 42:
+    print("o numero é par")
+elif numero == 43:
+    print("o numero é impar")
+elif numero == 44:
+    print("o numero é par")
+elif numero == 45:
+    print("o numero é impar")
+elif numero == 46:
+    print("o numero é par")
+elif numero == 47:
+    print("o numero é impar")
+elif numero == 48:
+    print("o numero é par")
+elif numero == 49:
+    print("o numero é impar")
+elif numero == 50:
+    print("o numero é par")
+    
